@@ -263,13 +263,3 @@ app.tk.call('wm', 'iconphoto', app._w, icon2)
 
 
 app.mainloop()
-
-#sayfalara ayır
-#tr-in seçeneği
-#çıktılarını alsınlar
-
-#https://www.youtube.com/watch?v=ofwJDREUr64
-#https://drive.google.com/file/d/1wwVep1WNB39UZQopx6FZowJhL7jsw-VU/view
-#https://www.youtube.com/watch?v=Kmlgbv3qVZA&list=PLUgFQtEcQLl8FhnV-AlmpvQO-jYXdChQm&index=3
-#https://www.youtube.com/watch?v=TE2lXUXgFmg&list=PLUgFQtEcQLl_TmkNjA-UHg-PNABqTuXPb&index=12
-#https://www.youtube.com/watch?v=tuvBW0AHIho&list=PLv5gvG08kLQenCfeJAglvSHhg5caqxlcQ&index=16
